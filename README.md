@@ -4,4 +4,4 @@ Queries written while following the tutorial of Alex The Analyst on youtube: htt
 
 Note: the visuals created for this project can be found here: https://public.tableau.com/app/profile/am.lie.meyer/viz/Covid_Project-DashBoard/Dashboard1
 
-Note_2: the tables uses for this analysis couldn't be added to the repositories be can be downloaded here: https://ourworldindata.org/covid-deaths
+Note_2: the tables used for this analysis couldn't be added to the repositories but can be downloaded here: https://ourworldindata.org/covid-deaths
